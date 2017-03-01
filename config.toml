@@ -1,3 +1,27 @@
+title = "Iago Moreira"
+baseURL = "http://iagomoreira.github.io/"
 languageCode = "en-us"
-title = "My New Hugo Site"
-baseURL = "http://example.org/"
+theme = "hugo-goa"
+enableRobotsTXT = true
+publishDir = "docs"
+
+[params]
+  author = "Iago Moreira"
+  intro = "Software Engineer"
+  description = "Ruby, Software, Traveling, Energy Drinks and Music"
+  authorimage = "profile.jpg"
+
+[params.meta]
+  description = "Ruby developer website"
+  keywords = "ruby,site,developer,software,engineer"
+
+[params.social]
+  github = "iagomoreira"
+  instagram = "iagomds"
+  linkedin = "iago-moreira-18b4a523"
+  facebook = "iago.moreira"
+  email = "iago.rn@gmail.com"
+
+[params.extra]
+  copyright = "© 2017. Iago Moreira"
+  poweredby = true
