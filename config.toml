@@ -3,7 +3,6 @@ baseURL = "http://iagomoreira.github.io/"
 languageCode = "en-us"
 theme = "hugo-goa"
 enableRobotsTXT = true
-publishDir = "docs"
 
 [params]
   author = "Iago Moreira"
